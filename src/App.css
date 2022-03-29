@@ -32,7 +32,74 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.form-player {
+  border: 2px solid black;
+  width: 500px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.squad {
+  border: 2px solid blue;
+  width: 250px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+/* Clear floats after the columns */
+.squad .list:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.no {
+  width: 10px;
+}
+
+.name {
+  width: 50%;
+  text-align: center;
+}
+
+.name:hover {
+  background-color: rgb(142, 236, 142);
+  border-radius: 10px;
+}
+
+.first-elevent {
+  border: 2px solid green;
+  width: 250px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+/* Clear floats after the columns */
+.first-elevent .list:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.flex{
+  display: flex;
+  min-height: 300px;
 }

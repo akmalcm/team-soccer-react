@@ -1,0 +1,27 @@
+.no-suggestions {
+  color: #999;
+  padding: 0.5rem;
+}
+
+.suggestions {
+  border: 1px solid #999;
+  border-top-width: 0;
+  list-style: none;
+  margin-top: 0;
+  overflow-y: auto;
+  padding-left: 0;
+  width: 250px;
+}
+
+.suggestions li {
+  padding: 0.5rem;
+}
+
+.suggestions li:hover {
+  background-color: #b9b9b9;
+  cursor: pointer;
+}
+
+.suggestions li:not(:last-of-type) {
+  border-bottom: 1px solid #999;
+}
