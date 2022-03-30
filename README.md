@@ -1,7 +1,6 @@
 # dragNdrop Soccer Team
 
-A simple dragNdrop your football/soccer team.
-
+A simple dragNdrop football/soccer team. Developed using ReactJS.
 
 ## Available Feature
 
