@@ -1,9 +1,8 @@
 # dragNdrop Soccer Team
 
-![demo](https://github.com/akmalcm/team-soccer-react/tree/main/public/demo.gif)
-=======
 A simple dragNdrop football/soccer team. Developed using ReactJS.
->>>>>>> 418c264d6014af37d5eaa9abd7e1710a9f8ba3c6
+
+![demo](https://github.com/akmalcm/team-soccer-react/tree/main/public/demo.gif)
 
 ## Available Feature
 
