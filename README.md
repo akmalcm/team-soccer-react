@@ -2,11 +2,11 @@
 
 A simple dragNdrop your football/soccer team.
 
+![demo](https://github.com/akmalcm/team-soccer-react/tree/main/public/demo.gif)
 
 ## Available Feature
 
 * Type your favourite player name in text box, and let it suggest to you.
-
 * Drag your player from your team to first eleven n back.
 
 
