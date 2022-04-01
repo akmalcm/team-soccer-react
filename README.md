@@ -2,7 +2,7 @@
 
 A simple dragNdrop football/soccer team. Developed using ReactJS.
 
-![demo](https://github.com/akmalcm/team-soccer-react/tree/main/public/demo.gif)
+![demo](https://github.com/akmalcm/team-soccer-react/blob/main/public/demo.gif)
 
 ## Available Feature
 
